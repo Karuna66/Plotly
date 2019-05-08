@@ -56,7 +56,7 @@ function buildCharts(sample) {
           height:500,
           margin:{
             t:50,
-            l :200},
+            l :50},
           hovermode:'closest',
           xaxis:{title:"Otu Id"}
       }
